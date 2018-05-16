@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="app_name">kotlin Sample</string>
+    <string name="user_name">User Name or Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOGIN</string>
+    <string name="forgot_your_password">Forgot Password?</string>
+    <string name="login_label">Android Clean Architecture Kotlin Sample</string>
+
+</resources>
